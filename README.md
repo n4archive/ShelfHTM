@@ -3,6 +3,7 @@ Base64-powered single file HTML Compiler.
 Standard-combatible implementation of ShelfHTM in Shell and Python3.
 ## Requirements
 - python3
+- bc
 - find (Installed on most systems)
 - file (Installed on most systems)
 - coreutils (Installed on most systems)
@@ -17,5 +18,3 @@ Standard-combatible implementation of ShelfHTM in Shell and Python3.
 `ASSETDIR` is a directory that contains the assets.
 ## Usage in HTMSRC files
 For example, in `<IMG>`, src can be `shelf:image.jpg` and the compiled file will include the image.
-## NOTE
-Needs more testing.
