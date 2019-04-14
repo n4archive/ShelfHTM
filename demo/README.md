@@ -1,6 +1,6 @@
 # Demo
 ## Launch
-[Click!](bin/index.html)
+[Click!](https://nift4.github.io/ShelfHTM/demo/bin/index.html)
 ## Source
 [Click!](https://github.com/nift4/ShelfHTM/tree/gh-pages/demo/)
 ## How to build
