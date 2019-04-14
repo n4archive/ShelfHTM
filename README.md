@@ -9,6 +9,8 @@ Standard-combatible implementation of ShelfHTM in Shell and Python3.
 - file (Installed on most systems)
 - coreutils (Installed on most systems)
 - base64 (Installed on most systems)
+## Installation
+Installation is not required.
 ## Usage
 `./build.sh <HTMSRC> <HTMBIN> <ASSETDIR>`
 
