@@ -4,6 +4,7 @@ Standard-combatible implementation of ShelfHTM in Shell and Python3.
 ## Requirements
 - python3
 - bc
+- bash (Installed on most systems)
 - find (Installed on most systems)
 - file (Installed on most systems)
 - coreutils (Installed on most systems)
