@@ -1,4 +1,4 @@
-# Shelf-
+# Shelf-CompSH
 Base64-powered single file HTML Compiler.
 Standard-combatible implementation of ShelfHTM in Shell and Python3.
 ## Requirements
